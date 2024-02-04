@@ -1,9 +1,10 @@
 Propuesta creada por//Proposal created by:
-[Anna Kaic](https://github.com/annakaic) -> Storytelling
-[Humberto Besso Oberto Huerta](https://github.com/hbesso31) -> Governance design
-[Irwing Duran](https://github.com/irwingduran) Front-End
-[Johan Sinoé de Jesús Torres](https://github.com/Anora42) Front-End
-[Sofia Villarreal](https://twitter.com/Sofi_VCarrillo) User Interface
+* [Anna Kaic](https://github.com/annakaic) -> Storytelling
+* [Humberto Besso Oberto Huerta](https://github.com/hbesso31) -> Governance design
+* [Irwing Duran](https://github.com/irwingduran) Front-End
+* [Johan Sinoé de Jesús Torres](https://github.com/Anora42) Front-End
+* [Sofia Villarreal](https://twitter.com/Sofi_VCarrillo) User Interface
+
 
 This contribution was fruit of working together through the Eth Cinco de Mayo hackathon 2024.
 
